@@ -1,7 +1,0 @@
-[0m[[0minfo[0m] [0mIncluding from cache: scala-library.jar[0m
-[0m[[0mdebug[0m] [0mCalculate mappings...[0m
-[0m[[0minfo[0m] [0mChecking every *.class/*.jar file's SHA-1.[0m
-[0m[[0minfo[0m] [0mMerging files...[0m
-[0m[[33mwarn[0m] [0mMerging 'META-INF/MANIFEST.MF' with strategy 'discard'[0m
-[0m[[33mwarn[0m] [0mStrategy 'discard' was applied to a file[0m
-[0m[[0minfo[0m] [0mAssembly up to date: /Users/Joey/testenv/PredictionIO/examples/scala-parallel-friend-recommendation/target/scala-2.10/template-scala-parallel-recommendation-custom-preparator-assembly-0.1-SNAPSHOT-deps.jar[0m
